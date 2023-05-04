@@ -90,8 +90,8 @@ print("Los paises se encuentran ordenados alfabeticamente", paises)
 frutas = ['manzana', 'banana', 'naranja']
 print("La lista de frutas es",frutas)
 fruta_delete = frutas.pop(1)
-#  print("Se elimina",fruta_delete)
-#  print("Y queda entonces",frutas)
+ print("Se elimina",fruta_delete)
+ print("Y queda entonces",frutas)
 ###################################################################################
 #11-Crear una lista con los nombres de tres animales y agregar una cuarta animal
 #al principio de la lista. Mostrar la lista resultante.
